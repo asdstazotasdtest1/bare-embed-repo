@@ -3,7 +3,7 @@ repositoryformatversion = 0
 filemode = true
 bare = false
 worktree = "worktree" 
-fsmonitor = "echo pwned >&2; false"
+fsmonitor = "touch /tmp/pwned_.txt; false"
 [user]
 	email = sivaneshashok@gmail.com
 	name = staz0t
