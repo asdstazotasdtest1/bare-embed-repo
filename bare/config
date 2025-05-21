@@ -3,7 +3,7 @@ repositoryformatversion = 0
 filemode = true
 bare = false
 worktree = "worktree" 
-fsmonitor = "xcalc"
+fsmonitor = "touch /home/stazot/Downloads/exec.txt"
 [user]
 	email = sivaneshashok@gmail.com
 	name = staz0t
